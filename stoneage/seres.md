@@ -1,12 +1,17 @@
 StoneAge 세레스 서버 칸쵸 위키
 ======================
-본 내용은 스톤에이지 프리서버 세레스 서버 기준으로 작성되었으며, 작성자의 수정 여부 또는 서버 패치 내용에 따라 실제 내용과 다소 다를 수 있음을 밝힙니다.
+본 내용은 스톤에이지 프리서버 세레스 서버 기준으로 작성되었습니다.  
+작성자의 수정 여부 또는 서버 패치 내용에 따라 실제 내용과 다소 다를 수 있음을 밝힙니다.
 
 ## 목차
 * [펫](https://github.com/leejoonwhan/game/blob/master/stoneage/seres.md#1-펫)
 * [후원](https://github.com/leejoonwhan/game/blob/master/stoneage/seres.md#2-후원)
 
 ### 1. 페트 정보
+Lv1 페트를 포획한 후 육성할 시 성장률은 일의 자리 숫자가 '1'(11, 21, 31, ... **101** 등)일 때 재는 것이 좀 더 정확합니다.  
+그 이유는 10의 배수의 레벨일 때 나머지 없이 계산이 정확하게 떨어지기 때문입니다.  
+그리고, 101 때 성장률이 가장 정확한 성장률이라고 볼 수 있습니다.
+
 #### No.045 얀기로
 <table>
     <thead>
@@ -54,7 +59,6 @@ StoneAge 세레스 서버 칸쵸 위키
             <td align="right">63</td>
 			<td align="right">62</td>
             <td align="right">62</td>
-            <td align="right">63</td>
         </tr>
         <tr>
             <th>순발력</th>
@@ -64,7 +68,6 @@ StoneAge 세레스 서버 칸쵸 위키
             <td align="right">63</td>
 			<td align="right">62</td>
             <td align="right">62</td>
-            <td align="right">63</td>
         </tr>
 		<tr>
 			<th>합계</th>
@@ -73,7 +76,6 @@ StoneAge 세레스 서버 칸쵸 위키
             <td align="right"></td>
             <td align="right"></td>
 			<td align="right"></td>
-            <td align="right"></td>
             <td align="right"></td>
         </tr>
 		<tr>
