@@ -7,6 +7,7 @@ StoneAge 세레스 서버 칸쵸 위키
 * [펫](https://github.com/leejoonwhan/game/blob/master/stoneage/seres.md#1-펫)
 * [후원](https://github.com/leejoonwhan/game/blob/master/stoneage/seres.md#2-후원)
 
+
 ### 1. 페트 정보
 Lv1 페트를 포획한 후 육성할 시 성장률은 일의 자리 숫자가 '1'(11, 21, 31, ... **101** 등)일 때 재는 것이 좀 더 정확합니다.  
 그 이유는 10의 배수의 레벨일 때 나머지 없이 계산이 정확하게 떨어지기 때문입니다.  
