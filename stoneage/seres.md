@@ -1,4 +1,4 @@
-StoneAge 칸쵸 위키
+StoneAge 세레스 서버 칸쵸 위키
 ======================
 본 내용은 스톤에이지 프리서버 세레스 서버 기준으로 작성되었으며, 작성자의 수정 여부 또는 서버 패치 내용에 따라 실제 내용과 다소 다를 수 있음을 밝힙니다.
 
@@ -8,6 +8,50 @@ StoneAge 칸쵸 위키
 
 ### 1. 페트 정보
 #### No.045 얀기로
+<table>
+    <thead>
+        <tr>
+            <th>이미지</th>
+            <th>능력치</th>
+            <th>온감</th>
+			      <th>알려</th>
+			      <th>칸쵸</th>
+			      <th>성장률</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4><img src="https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif"></td>
+            <th>내구력</th>
+			      <td align="right">62</td>
+            <td align="right">62</td>
+            <td align="right">63</td>
+            <td align="right">63</td>
+        </tr>
+        <tr>
+            <th>공격력</th>
+			      <td align="right">13</td>
+            <td align="right">13</td>
+            <td align="right">13</td>
+            <td align="right">63</td>
+        </tr>
+        <tr>
+            <th>방어력</th>
+			      <td align="right">8</td>
+            <td align="right">8</td>
+            <td align="right">8</td>
+            <td align="right">63</td>
+        </tr>
+        <tr>
+            <th>순발력</th>
+			      <td align="right">7</td>
+            <td align="right">7</td>
+            <td align="right">7</td>
+            <td align="right">63</td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 
