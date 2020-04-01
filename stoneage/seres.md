@@ -47,7 +47,7 @@ StoneAge 칸쵸 위키
     </tbody>
 </table>
 
-
+![045](https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif)
 
 
 
