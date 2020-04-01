@@ -12,37 +12,38 @@ StoneAge 칸쵸 위키
     <thead>
         <tr>
             <th>이미지</th>
-            <th></th>
-            <th></th>
-			<th></th>
-			<th></th>
+            <th>능력치</th>
+            <th>온감</th>
+			<th>알려</th>
+			<th>칸쵸</th>
+			<th>칸쵸</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan=4><img src="https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif"></td>
             <th>내구력</th>
-			<td></td>
-            <td></td>
-            <td></td>
+			<td>62</td>
+            <td>62</td>
+            <td>63</td>
         </tr>
         <tr>
             <th>공격력</th>
-			<td></td>
-            <td></td>
-            <td></td>
+			<td>13</td>
+            <td>13</td>
+            <td>13</td>
         </tr>
         <tr>
             <th>방어력</th>
-			<td></td>
-            <td></td>
-            <td></td>
+			<td>8</td>
+            <td>8</td>
+            <td>8</td>
         </tr>
         <tr>
             <th>순발력</th>
-			<td></td>
-            <td></td>
-            <td></td>
+			<td>7</td>
+            <td>7</td>
+            <td>7</td>
         </tr>
     </tbody>
 </table>
