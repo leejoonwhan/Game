@@ -1,13 +1,15 @@
 StoneAge 칸쵸 위키
 ======================
-본 내용은 스톤에이지 세레스 서버 기준으로 작성되었으며, 작성자의 수정 여부에 따라 실제 내용과 다소 다를 수 있음을 밝힙니다.
+본 내용은 스톤에이지 프리서버 세레스 서버 기준으로 작성되었으며, 작성자의 수정 여부 또는 서버 패치 내용에 따라 실제 내용과 다소 다를 수 있음을 밝힙니다.
 
 ## 목차
 * [펫](https://github.com/leejoonwhan/game/blob/master/stoneage/seres.md#1-펫)
 * [후원](https://github.com/leejoonwhan/game/blob/master/stoneage/seres.md#2-후원)
 
-### 1. 펫
-First Header | Second Header
+### 1. 페트 정보
+#### No.045 얀기로
+
+이미지 | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
@@ -25,3 +27,43 @@ Content in the first column | Content in the second column | Content from cell 2
 Content in the first column | Content in the second column | Content from cell 2
 Content in the first column | Content in the second column | Content from cell 2
 Content in the first column | Content in the second column | Content from cell 2
+
+
+
+
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+
+<table>
+    <thead>
+        <tr>
+            <th>Layer 1</th>
+            <th>Layer 2</th>
+            <th>Layer 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>L1 Name</td>
+            <td rowspan=2>L2 Name A</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>L2 Name B</td>
+            <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
+        </tr>
+    </tbody>
+</table>
