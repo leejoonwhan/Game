@@ -8,14 +8,42 @@ StoneAge 칸쵸 위키
 
 ### 1. 페트 정보
 #### No.045 얀기로
-
-이미지 | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-Content in the first column | Content in the second column
-Content in the first column | Content in the second column
-Content in the first column | Content in the second column
+<table>
+    <thead>
+        <tr>
+            <th>이미지</th>
+            <th></th>
+            <th>Layer 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4></td>
+            <td>내구력</td>
+			<td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>공격력</td>
+			<td></td>
+            <td>방어력</td>
+            <td>순발력</td>
+        </tr>
+        <tr>
+            <td>방어력</td>
+			<td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>순발력</td>
+			<td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ![045](https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif)
 
@@ -44,16 +72,16 @@ Content in the first column | Content in the second column
 <table>
     <thead>
         <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
+            <th>이미지</th>
+            <th></th>
             <th>Layer 3</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
+            <td rowspan=4></td>
+            <td>공격력</td>
+            <td>방어력</td>
         </tr>
         <tr>
             <td>L3 Name B</td>
