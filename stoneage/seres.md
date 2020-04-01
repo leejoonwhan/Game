@@ -19,31 +19,32 @@ StoneAge 칸쵸 위키
     <tbody>
         <tr>
             <td rowspan=4></td>
-            <td>내구력</td>
+            <th>내구력</th>
 			<td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>공격력</td>
-			<td></td>
-            <td>방어력</td>
-            <td>순발력</td>
-        </tr>
-        <tr>
-            <td>방어력</td>
+            <th>공격력</th>
 			<td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>순발력</td>
+            <th>방어력</th>
+			<td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>순발력</th>
 			<td></td>
             <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
+
 
 ![045](https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif)
 
