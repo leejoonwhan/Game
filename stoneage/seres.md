@@ -15,6 +15,8 @@ Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 
+![045](https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif)
+
 ### 2. 후원
 이름 | 가격 | 비고
 ------------ | ------------- | -------------
