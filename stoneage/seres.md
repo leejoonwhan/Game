@@ -13,12 +13,14 @@ StoneAge 칸쵸 위키
         <tr>
             <th>이미지</th>
             <th></th>
-            <th>Layer 3</th>
+            <th></th>
+			<th></th>
+			<th></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4></td>
+            <td rowspan=4>![045](https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif)</td>
             <th>내구력</th>
 			<td></td>
             <td></td>
@@ -46,7 +48,8 @@ StoneAge 칸쵸 위키
 </table>
 
 
-![045](https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif)
+
+
 
 ### 2. 후원
 이름 | 가격 | 비고
@@ -69,30 +72,3 @@ Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
-
-<table>
-    <thead>
-        <tr>
-            <th>이미지</th>
-            <th></th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4></td>
-            <td>공격력</td>
-            <td>방어력</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
