@@ -11,51 +11,78 @@ StoneAge 세레스 서버 칸쵸 위키
 <table>
     <thead>
         <tr>
-            <th>이미지</th>
-            <th>능력치</th>
-            <th>온감</th>
-			      <th>알려</th>
-			      <th>칸쵸</th>
-			      <th>성장률</th>
+            <th rowspan=2>이미지</th>
+            <th rowspan=2>능력치</th>
+            <th colspan=2>칸쵸</th>
+			<th colspan=2>알려</th>
+			<th colspan=2>온감</th>
+        </tr>
+		<tr>
+            <th>초기치</th>
+			<th>성장률</th>
+			<th>초기치</th>
+			<th>성장률</th>
+			<th>초기치</th>
+			<th>성장률</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4><img src="https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif"></td>
+            <td rowspan=5><img src="https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif"></td>
             <th>내구력</th>
-			      <td align="right">62</td>
+			<td align="right">62</td>
             <td align="right">62</td>
             <td align="right">63</td>
+			<td align="right">62</td>
+            <td align="right">62</td>
             <td align="right">63</td>
         </tr>
         <tr>
             <th>공격력</th>
-			      <td align="right">13</td>
+			<td align="right">13</td>
             <td align="right">13</td>
             <td align="right">13</td>
+			<td align="right">62</td>
+            <td align="right">62</td>
             <td align="right">63</td>
         </tr>
         <tr>
             <th>방어력</th>
-			      <td align="right">8</td>
+			<td align="right">8</td>
             <td align="right">8</td>
             <td align="right">8</td>
+            <td align="right">63</td>
+			<td align="right">62</td>
+            <td align="right">62</td>
             <td align="right">63</td>
         </tr>
         <tr>
             <th>순발력</th>
-			      <td align="right">7</td>
+			<td align="right">7</td>
             <td align="right">7</td>
             <td align="right">7</td>
             <td align="right">63</td>
+			<td align="right">62</td>
+            <td align="right">62</td>
+            <td align="right">63</td>
+        </tr>
+		<tr>
+			<th>합계</th>
+			<td align="right"></td>
+            <td align="right"></td>
+            <td align="right"></td>
+            <td align="right"></td>
+			<td align="right"></td>
+            <td align="right"></td>
+            <td align="right"></td>
+        </tr>
+		<tr>
+            <th>비고</th>
+			<td colspan=7></td>
         </tr>
     </tbody>
 </table>
 
-
-
-
-![045](https://user-images.githubusercontent.com/24225399/78142116-73b64500-7467-11ea-8a73-df1e06c3ea45.gif)
 
 
 
