@@ -14,9 +14,11 @@ Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
 ### 2. 후원
+이미지 | 이름 | 가격
+------------ | ------------- | -------------
+Content from cell 1 | Content from cell 2 | Content from cell 2
+Content in the first column | Content in the second column | Content from cell 2
+Content in the first column | Content in the second column | Content from cell 2
+Content in the first column | Content in the second column | Content from cell 2
+Content in the first column | Content in the second column
